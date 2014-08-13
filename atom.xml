@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[812lcl的博客]]></title>
+  <link href="http://812lcl.com/atom.xml" rel="self"/>
+  <link href="http://812lcl.com/"/>
+  <updated>2014-08-13T23:51:23+08:00</updated>
+  <id>http://812lcl.com/</id>
+  <author>
+    <name><![CDATA[812lcl]]></name>
+    <email><![CDATA[812liuchunlei@163.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
