@@ -2,15 +2,31 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://marifl.github.com/blog/2014/08/14/haha/</loc>
-        <lastmod>2014-08-14T14:50:53+08:00</lastmod>
+        <lastmod>2014-08-14T15:53:01+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://marifl.github.com/404.html</loc>
+        <lastmod>2014-08-14T15:10:58+08:00</lastmod>
     </url>
     <url>
         <loc>http://marifl.github.com/about/</loc>
-        <lastmod>2014-08-14T14:50:53+08:00</lastmod>
+        <lastmod>2014-08-14T15:53:01+08:00</lastmod>
     </url>
     <url>
         <loc>http://marifl.github.com/blog/archives/</loc>
-        <lastmod>2014-08-14T14:50:53+08:00</lastmod>
+        <lastmod>2014-08-14T15:53:01+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://marifl.github.com/blog/categories/draw/</loc>
+        <lastmod>2014-08-14T15:41:50+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://marifl.github.com/blog/categories/game/</loc>
+        <lastmod>2014-08-14T15:41:39+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://marifl.github.com/blog/categories/learn/</loc>
+        <lastmod>2014-08-14T15:34:38+08:00</lastmod>
     </url>
     <url>
         <loc>http://marifl.github.com/category-cloud/</loc>
@@ -22,7 +38,7 @@
     </url>
     <url>
         <loc>http://marifl.github.com/</loc>
-        <lastmod>2014-08-14T14:50:53+08:00</lastmod>
+        <lastmod>2014-08-14T15:53:01+08:00</lastmod>
     </url>
     <url>
         <loc>http://marifl.github.com/search/</loc>
