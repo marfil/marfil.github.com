@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Marfil's world]]></title>
-  <link href="http://marifl.github.com/atom.xml" rel="self"/>
-  <link href="http://marifl.github.com/"/>
-  <updated>2014-08-14T18:12:42+08:00</updated>
-  <id>http://marifl.github.com/</id>
+  <link href="http://marfil.github.com/atom.xml" rel="self"/>
+  <link href="http://marfil.github.com/"/>
+  <updated>2014-08-14T22:28:25+08:00</updated>
+  <id>http://marfil.github.com/</id>
   <author>
     <name><![CDATA[Marfil]]></name>
     <email><![CDATA[812liuchunlei@163.com]]></email>
@@ -15,24 +15,24 @@
   
   <entry>
     <title type="html"><![CDATA[Hello my blog]]></title>
-    <link href="http://marifl.github.com/blog/2014/08/14/hello-my-blog/"/>
+    <link href="http://marfil.github.com/blog/2014/08/14/hello-my-blog/"/>
     <updated>2014-08-14T17:30:00+08:00</updated>
-    <id>http://marifl.github.com/blog/2014/08/14/hello-my-blog</id>
+    <id>http://marfil.github.com/blog/2014/08/14/hello-my-blog</id>
     <content type="html"><![CDATA[<h1>You r right</h1>
 
 <p>aaaa</p>
 
 <p class='post-footer'>
-            original link:<a href='http://marifl.github.com/blog/2014/08/14/hello-my-blog/'>http://marifl.github.com/blog/2014/08/14/hello-my-blog/</a><br/>&nbsp;written by <a href='http://marifl.github.com'>Marfil</a>&nbsp;posted at <a href='http://marifl.github.com'>http://marifl.github.com</a></p>
+            original link:<a href='http://marfil.github.com/blog/2014/08/14/hello-my-blog/'>http://marfil.github.com/blog/2014/08/14/hello-my-blog/</a><br/>&nbsp;written by <a href='http://marfil.github.com'>Marfil</a>&nbsp;posted at <a href='http://marfil.github.com'>http://marfil.github.com</a></p>
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[haha]]></title>
-    <link href="http://marifl.github.com/blog/2014/08/14/haha/"/>
+    <link href="http://marfil.github.com/blog/2014/08/14/haha/"/>
     <updated>2014-08-14T14:50:00+08:00</updated>
-    <id>http://marifl.github.com/blog/2014/08/14/haha</id>
+    <id>http://marfil.github.com/blog/2014/08/14/haha</id>
     <content type="html"><![CDATA[<p>Hello
 haha
  zhege shi taixiaole</p>
@@ -107,7 +107,7 @@ sefsefsfsfsefsdfffafsdfsfesfsfsefsefsfsfsefsdfffafsdfsfesfsfsefsefsfsfsefsdfffaf
 <p>aaaa</p>
 
 <p class='post-footer'>
-            original link:<a href='http://marifl.github.com/blog/2014/08/14/haha/'>http://marifl.github.com/blog/2014/08/14/haha/</a><br/>&nbsp;written by <a href='http://marifl.github.com'>Marfil</a>&nbsp;posted at <a href='http://marifl.github.com'>http://marifl.github.com</a></p>
+            original link:<a href='http://marfil.github.com/blog/2014/08/14/haha/'>http://marfil.github.com/blog/2014/08/14/haha/</a><br/>&nbsp;written by <a href='http://marfil.github.com'>Marfil</a>&nbsp;posted at <a href='http://marfil.github.com'>http://marfil.github.com</a></p>
 
 ]]></content>
   </entry>
