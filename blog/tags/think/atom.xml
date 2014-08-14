@@ -4,7 +4,7 @@
   <title><![CDATA[Tag: think | Marfil's world]]></title>
   <link href="http://marfil.github.com/blog/tags/think/atom.xml" rel="self"/>
   <link href="http://marfil.github.com/"/>
-  <updated>2014-08-14T23:31:10+08:00</updated>
+  <updated>2014-08-14T23:33:55+08:00</updated>
   <id>http://marfil.github.com/</id>
   <author>
     <name><![CDATA[Marfil]]></name>
@@ -14,14 +14,15 @@
 
   
   <entry>
-    <title type="html"><![CDATA[first_draw]]></title>
+    <title type="html"><![CDATA[画画第一课]]></title>
     <link href="http://marfil.github.com/blog/2014/08/14/first-draw/"/>
     <updated>2014-08-14T23:25:00+08:00</updated>
     <id>http://marfil.github.com/blog/2014/08/14/first-draw</id>
     <content type="html"><![CDATA[<h1>哇啦，第一篇Draw</h1>
 
-<p>===========
-你说我能学会画画么</p>
+<hr />
+
+<p>你说我能学会画画么</p>
 
 <!-- more -->
 
@@ -31,14 +32,15 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[first_lean]]></title>
+    <title type="html"><![CDATA[学习第一课]]></title>
     <link href="http://marfil.github.com/blog/2014/08/14/first-lean/"/>
     <updated>2014-08-14T23:24:00+08:00</updated>
     <id>http://marfil.github.com/blog/2014/08/14/first-lean</id>
     <content type="html"><![CDATA[<h1>第一篇Learn</h1>
 
-<p>=====
-此处整理日常学习及技术相关文章</p>
+<hr />
+
+<p>此处整理日常学习及技术相关文章</p>
 
 <!-- more -->
 
@@ -48,14 +50,15 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[first_game]]></title>
+    <title type="html"><![CDATA[游戏第一课]]></title>
     <link href="http://marfil.github.com/blog/2014/08/14/first-game/"/>
     <updated>2014-08-14T23:24:00+08:00</updated>
     <id>http://marfil.github.com/blog/2014/08/14/first-game</id>
     <content type="html"><![CDATA[<h1>第一篇Game</h1>
 
-<p>====
-此处整理游戏心得与游戏体会</p>
+<hr />
+
+<p>此处整理游戏心得与游戏体会</p>
 
 <!-- more -->
 
