@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://marfil.github.com/blog/2014/08/14/haha/</loc>
-        <lastmod>2014-08-14T18:12:26+08:00</lastmod>
+        <loc>http://marfil.github.com/blog/2014/08/14/first-game/</loc>
+        <lastmod>2014-08-14T23:29:07+08:00</lastmod>
     </url>
     <url>
-        <loc>http://marfil.github.com/blog/2014/08/14/hello-my-blog/</loc>
-        <lastmod>2014-08-14T18:12:26+08:00</lastmod>
+        <loc>http://marfil.github.com/blog/2014/08/14/first-lean/</loc>
+        <lastmod>2014-08-14T23:27:58+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://marfil.github.com/blog/2014/08/14/first-draw/</loc>
+        <lastmod>2014-08-14T23:31:09+08:00</lastmod>
     </url>
     <url>
         <loc>http://marfil.github.com/404.html</loc>
@@ -14,11 +18,11 @@
     </url>
     <url>
         <loc>http://marfil.github.com/about/</loc>
-        <lastmod>2014-08-14T17:51:46+08:00</lastmod>
+        <lastmod>2014-08-14T23:31:09+08:00</lastmod>
     </url>
     <url>
         <loc>http://marfil.github.com/blog/archives/</loc>
-        <lastmod>2014-08-14T17:33:39+08:00</lastmod>
+        <lastmod>2014-08-14T23:31:09+08:00</lastmod>
     </url>
     <url>
         <loc>http://marfil.github.com/blog/categories/draw/</loc>
@@ -42,7 +46,7 @@
     </url>
     <url>
         <loc>http://marfil.github.com/</loc>
-        <lastmod>2014-08-14T17:33:39+08:00</lastmod>
+        <lastmod>2014-08-14T23:31:09+08:00</lastmod>
     </url>
     <url>
         <loc>http://marfil.github.com/search/</loc>
