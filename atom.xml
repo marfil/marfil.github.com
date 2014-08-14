@@ -4,7 +4,7 @@
   <title><![CDATA[Marfil's world]]></title>
   <link href="http://marifl.github.com/atom.xml" rel="self"/>
   <link href="http://marifl.github.com/"/>
-  <updated>2014-08-14T17:26:10+08:00</updated>
+  <updated>2014-08-14T17:33:52+08:00</updated>
   <id>http://marifl.github.com/</id>
   <author>
     <name><![CDATA[Marfil]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello my blog]]></title>
+    <link href="http://marifl.github.com/blog/2014/08/14/hello-my-blog/"/>
+    <updated>2014-08-14T17:30:00+08:00</updated>
+    <id>http://marifl.github.com/blog/2014/08/14/hello-my-blog</id>
+    <content type="html"><![CDATA[<h1>You r right</h1>
+
+<p>aaaa</p>
+
+<p class='post-footer'>
+            original link:<a href='http://marifl.github.com/blog/2014/08/14/hello-my-blog/'>http://marifl.github.com/blog/2014/08/14/hello-my-blog/</a><br/>&nbsp;written by <a href='http://marifl.github.com'>Marfil</a>&nbsp;posted at <a href='http://marifl.github.com'>http://marifl.github.com</a></p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[haha]]></title>
