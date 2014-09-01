@@ -7,7 +7,7 @@
 	<meta name="author" content="Marfil">
 
 	
-	<meta name="description" content="Smali 反编译 标记 original link:http://marfil.github.com/blog/2014/08/19/smali/&nbsp;written by Marfil&nbsp;posted at http://marfil.github.com &laquo; &hellip;">
+	<meta name="description" content="Smali 反编译 这篇重点是理清解包打包的思路。 首先，环境配置中我安装了APKDB这个(win7x64)，算是软件吧。它可以反编译和打包，节省很多打命令的时间，我的重点在破包与解开业务逻辑，这方面有兴趣的同学可以自己深入研究。 安装好后有个比较赞的功能，apk的图标就是icon图标，方便查找 &hellip;">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -103,10 +103,60 @@
 	<div class="entry-content">
         <h3>Smali 反编译</h3>
 
-<p>标记</p>
+<h4>这篇重点是理清解包打包的思路。</h4>
+
+<hr />
+
+<p>首先，环境配置中我安装了APKDB这个(win7x64)，算是软件吧。它可以反编译和打包，节省很多打命令的时间，我的重点在破包与解开业务逻辑，这方面有兴趣的同学可以自己深入研究。</p>
+
+<p>安装好后有个比较赞的功能，apk的图标就是icon图标，方便查找，对小米这种有缓存要重启才能看icon图标是否替换成功的会省力些。看图</p>
+
+<p><img src="https://4tjcfg.by3301.livefilestore.com/y2pvqDca3K0y-Y6UZ8sRNzL-Sj1mnew8oZZbJLMTqBmGGV15-mt0QxeMMr67YgOtwZ9oaGV9OqDvjjTnu4jyOJGH8wRYM8__C0sOPfb3jks7LQ/jt1.png?psid=1"></p>
 
 <!-- more -->
 
+
+<h4>开工</h4>
+
+<p>将apk复制到工作目录，右键使用APKDB反编译</p>
+
+<p><img src="https://4tjcfg.by3301.livefilestore.com/y2p5VEtNqEX8-Pe5K4Ioj2bS_emkIT9xAijF_riVPZQ357Ooe_O-wp4RBZqLPStNJd7iL_4FGhgZTZejc3sA0tSj1dZzMgDkMfCQZpWMvP5yyI/jt2.png?psid=1"></p>
+
+<p>出现选项卡</p>
+
+<p><img src="https://4tjcfg.by3301.livefilestore.com/y2pp1bemmJz5s_dXvE1IGgP1ZDpNnYJa-YuEyPqWv65bUB1Q5tCKNZfV3fhpxsEye2NjrjVCufY8gD0CexL2N8KzYgM_Ix_cM7JoJA5yhN13rA/jt3.png?psid=1"></p>
+
+<p>选择1，回车，反编译成功会提示。</p>
+
+<p>如果用apktool命令行请选择较高版本的jar包，官网现在最新的两个jar包虽然都是beta版本，但还是强烈建议用最新的，老版本许多apk会出现反编译错误。</p>
+
+<h4>注意 如果要进行命令行打包并自己签名的，自己官方下载的jar包版本要与这部选择的版本相符合，否则命令行打包会失败，这个会在打包时候再次说明。</h4>
+
+<p>成功反编译后就会看到和apk文件同名的文件夹，点进去就是反编译的目录结构。</p>
+
+<p><img src="https://4tjcfg.by3301.livefilestore.com/y2pF91Jk8NoF_sdzrgZCj_KbiPzlzB87XWpNyv2KH-g3X6yIsjdbH70Z_K5GwWw4TfW2riiit27YSGgnoj8zVTlszr-XR244HmB7izPgdKZHAQ/jt5.png?psid=1"></p>
+
+<ul>
+<li>一个清单文件</li>
+<li>一个打包规则文件</li>
+<li>assets&mdash;资源文件</li>
+<li>lib&mdash;so包</li>
+<li>res&mdash;对应drawable一类文件</li>
+<li>smali&mdash;反编译的smali文件</li>
+</ul>
+
+
+<p>资源替换简单，替换同名文件即可</p>
+
+<p>下面讲讲通过修改smali文件，注入自己代码，或者是修改原文件的业务逻辑。可以制作免费包，去除广告，汉化等等工作。</p>
+
+<p>在这里用到的时Sublime Text2(ST2)软件，添加smali插件，能够使smali语法高亮。</p>
+
+<p>将整个目录拖入到ST2中</p>
+
+<p><img src="https://4tjcfg.by3301.livefilestore.com/y2puFMu_hy2RXnym_qpF2Ef1IPASV72dPULK1bFRTmmkhdrf0aAocV_YN-2QJgx_-1VAHCdeqU32TKgu-Xlv0-dcyOPKo-vHJUmFEhifJoMfVw/jt6.png?psid=1"></p>
+
+<p>waitting for update&hellip;&hellip;.</p>
 
 <p class='post-footer'>
             original link:<a href='http://marfil.github.com/blog/2014/08/19/smali/'>http://marfil.github.com/blog/2014/08/19/smali/</a><br/>&nbsp;written by <a href='http://marfil.github.com'>Marfil</a>&nbsp;posted at <a href='http://marfil.github.com'>http://marfil.github.com</a></p>
