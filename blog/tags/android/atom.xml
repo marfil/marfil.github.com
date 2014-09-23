@@ -4,7 +4,7 @@
   <title><![CDATA[Tag: android | Marfil's world]]></title>
   <link href="http://marfil.github.com/blog/tags/android/atom.xml" rel="self"/>
   <link href="http://marfil.github.com/"/>
-  <updated>2014-09-01T23:59:14+08:00</updated>
+  <updated>2014-09-23T14:11:25+08:00</updated>
   <id>http://marfil.github.com/</id>
   <author>
     <name><![CDATA[Marfil]]></name>
@@ -28,7 +28,7 @@
 
 <p>安装好后有个比较赞的功能，apk的图标就是icon图标，方便查找，对小米这种有缓存要重启才能看icon图标是否替换成功的会省力些。看图</p>
 
-<p><img class="<a" src="href="https://4tjcfg.by3301.livefilestore.com/y2pvqDca3K0y-Y6UZ8sRNzL-Sj1mnew8oZZbJLMTqBmGGV15-mt0QxeMMr67YgOtwZ9oaGV9OqDvjjTnu4jyOJGH8wRYM8__C0sOPfb3jks7LQ/jt1.png?psid=1">https://4tjcfg.by3301.livefilestore.com/y2pvqDca3K0y-Y6UZ8sRNzL-Sj1mnew8oZZbJLMTqBmGGV15-mt0QxeMMr67YgOtwZ9oaGV9OqDvjjTnu4jyOJGH8wRYM8__C0sOPfb3jks7LQ/jt1.png?psid=1</a>"></p>
+<p>{% img <a href="https://4tjcfg.by3301.livefilestore.com/y2pvqDca3K0y-Y6UZ8sRNzL-Sj1mnew8oZZbJLMTqBmGGV15-mt0QxeMMr67YgOtwZ9oaGV9OqDvjjTnu4jyOJGH8wRYM8__C0sOPfb3jks7LQ/jt1.png?psid=1">https://4tjcfg.by3301.livefilestore.com/y2pvqDca3K0y-Y6UZ8sRNzL-Sj1mnew8oZZbJLMTqBmGGV15-mt0QxeMMr67YgOtwZ9oaGV9OqDvjjTnu4jyOJGH8wRYM8__C0sOPfb3jks7LQ/jt1.png?psid=1</a> %}</p>
 
 <!-- more -->
 
@@ -37,11 +37,11 @@
 
 <p>将apk复制到工作目录，右键使用APKDB反编译</p>
 
-<p><img class="<a" src="href="https://4tjcfg.by3301.livefilestore.com/y2p5VEtNqEX8-Pe5K4Ioj2bS_emkIT9xAijF_riVPZQ357Ooe_O-wp4RBZqLPStNJd7iL_4FGhgZTZejc3sA0tSj1dZzMgDkMfCQZpWMvP5yyI/jt2.png?psid=1">https://4tjcfg.by3301.livefilestore.com/y2p5VEtNqEX8-Pe5K4Ioj2bS_emkIT9xAijF_riVPZQ357Ooe_O-wp4RBZqLPStNJd7iL_4FGhgZTZejc3sA0tSj1dZzMgDkMfCQZpWMvP5yyI/jt2.png?psid=1</a>"></p>
+<p>{% img <a href="https://4tjcfg.by3301.livefilestore.com/y2p5VEtNqEX8-Pe5K4Ioj2bS_emkIT9xAijF_riVPZQ357Ooe_O-wp4RBZqLPStNJd7iL_4FGhgZTZejc3sA0tSj1dZzMgDkMfCQZpWMvP5yyI/jt2.png?psid=1">https://4tjcfg.by3301.livefilestore.com/y2p5VEtNqEX8-Pe5K4Ioj2bS_emkIT9xAijF_riVPZQ357Ooe_O-wp4RBZqLPStNJd7iL_4FGhgZTZejc3sA0tSj1dZzMgDkMfCQZpWMvP5yyI/jt2.png?psid=1</a> %}</p>
 
 <p>出现选项卡</p>
 
-<p><img class="<a" src="href="https://4tjcfg.by3301.livefilestore.com/y2pp1bemmJz5s_dXvE1IGgP1ZDpNnYJa-YuEyPqWv65bUB1Q5tCKNZfV3fhpxsEye2NjrjVCufY8gD0CexL2N8KzYgM_Ix_cM7JoJA5yhN13rA/jt3.png?psid=1">https://4tjcfg.by3301.livefilestore.com/y2pp1bemmJz5s_dXvE1IGgP1ZDpNnYJa-YuEyPqWv65bUB1Q5tCKNZfV3fhpxsEye2NjrjVCufY8gD0CexL2N8KzYgM_Ix_cM7JoJA5yhN13rA/jt3.png?psid=1</a>"></p>
+<p>{% img <a href="https://4tjcfg.by3301.livefilestore.com/y2pp1bemmJz5s_dXvE1IGgP1ZDpNnYJa-YuEyPqWv65bUB1Q5tCKNZfV3fhpxsEye2NjrjVCufY8gD0CexL2N8KzYgM_Ix_cM7JoJA5yhN13rA/jt3.png?psid=1">https://4tjcfg.by3301.livefilestore.com/y2pp1bemmJz5s_dXvE1IGgP1ZDpNnYJa-YuEyPqWv65bUB1Q5tCKNZfV3fhpxsEye2NjrjVCufY8gD0CexL2N8KzYgM_Ix_cM7JoJA5yhN13rA/jt3.png?psid=1</a> %}</p>
 
 <p>选择1，回车，反编译成功会提示。</p>
 
@@ -51,7 +51,7 @@
 
 <p>成功反编译后就会看到和apk文件同名的文件夹，点进去就是反编译的目录结构。</p>
 
-<p><img class="<a" src="href="https://4tjcfg.by3301.livefilestore.com/y2pF91Jk8NoF_sdzrgZCj_KbiPzlzB87XWpNyv2KH-g3X6yIsjdbH70Z_K5GwWw4TfW2riiit27YSGgnoj8zVTlszr-XR244HmB7izPgdKZHAQ/jt5.png?psid=1">https://4tjcfg.by3301.livefilestore.com/y2pF91Jk8NoF_sdzrgZCj_KbiPzlzB87XWpNyv2KH-g3X6yIsjdbH70Z_K5GwWw4TfW2riiit27YSGgnoj8zVTlszr-XR244HmB7izPgdKZHAQ/jt5.png?psid=1</a>"></p>
+<p>{% img <a href="https://4tjcfg.by3301.livefilestore.com/y2pF91Jk8NoF_sdzrgZCj_KbiPzlzB87XWpNyv2KH-g3X6yIsjdbH70Z_K5GwWw4TfW2riiit27YSGgnoj8zVTlszr-XR244HmB7izPgdKZHAQ/jt5.png?psid=1">https://4tjcfg.by3301.livefilestore.com/y2pF91Jk8NoF_sdzrgZCj_KbiPzlzB87XWpNyv2KH-g3X6yIsjdbH70Z_K5GwWw4TfW2riiit27YSGgnoj8zVTlszr-XR244HmB7izPgdKZHAQ/jt5.png?psid=1</a> %}</p>
 
 <ul>
 <li>一个清单文件</li>
@@ -71,9 +71,31 @@
 
 <p>将整个目录拖入到ST2中</p>
 
-<p><img class="<a" src="href="https://4tjcfg.by3301.livefilestore.com/y2puFMu_hy2RXnym_qpF2Ef1IPASV72dPULK1bFRTmmkhdrf0aAocV_YN-2QJgx_-1VAHCdeqU32TKgu-Xlv0-dcyOPKo-vHJUmFEhifJoMfVw/jt6.png?psid=1">https://4tjcfg.by3301.livefilestore.com/y2puFMu_hy2RXnym_qpF2Ef1IPASV72dPULK1bFRTmmkhdrf0aAocV_YN-2QJgx_-1VAHCdeqU32TKgu-Xlv0-dcyOPKo-vHJUmFEhifJoMfVw/jt6.png?psid=1</a>"></p>
+<p>{% img <a href="https://4tjcfg.by3301.livefilestore.com/y2puFMu_hy2RXnym_qpF2Ef1IPASV72dPULK1bFRTmmkhdrf0aAocV_YN-2QJgx_-1VAHCdeqU32TKgu-Xlv0-dcyOPKo-vHJUmFEhifJoMfVw/jt6.png?psid=1">https://4tjcfg.by3301.livefilestore.com/y2puFMu_hy2RXnym_qpF2Ef1IPASV72dPULK1bFRTmmkhdrf0aAocV_YN-2QJgx_-1VAHCdeqU32TKgu-Xlv0-dcyOPKo-vHJUmFEhifJoMfVw/jt6.png?psid=1</a> %}</p>
 
-<p>waitting for update&hellip;&hellip;.</p>
+<p>smali的语法可以自行百度</p>
+
+<p><a href="http://www.cnblogs.com/4-312/p/3158026.html">教程地址</a></p>
+
+<h3>特别要注意的每次在一个方法里加代码，首先要检查下申请的数量，不然打包好一直报错，比较难找。如图</h3>
+
+<p>{% img <a href="https://4tjcfg.bl3302.livefilestore.com/y2pzr4hSuwIULIg-VvPE3lmG_PotmF3rIzEnUuPCn8DQM7xruLjuVo2qRzf_VXzxb9vTBrUzJtjiA1ACCkvC6dopIi30GwCisbKtq1tH6uEW-4/locals.png?psid=1">https://4tjcfg.bl3302.livefilestore.com/y2pzr4hSuwIULIg-VvPE3lmG_PotmF3rIzEnUuPCn8DQM7xruLjuVo2qRzf_VXzxb9vTBrUzJtjiA1ACCkvC6dopIi30GwCisbKtq1tH6uEW-4/locals.png?psid=1</a> $}</p>
+
+<p>新加入的代码中有新增变量，则一定要把数量加上去。</p>
+
+<h4>注入</h4>
+
+<p>一般写smali代码比较复杂，也比较容易出错。所以当把原代码弄清楚后，要注入代码时，我选择的方法是自己写一个安卓项目，把要的功能封装到一个方法或者一个类的方法里面，要注入的地方调用这个方法，或者新建一个类并调用它的方法即可。</p>
+
+<ul>
+<li>步骤1用eclipse将写好的代码打包成apk</li>
+<li>反编译自己的apk文件</li>
+<li>整合manifest配置文件</li>
+<li>将smali文件整合</li>
+</ul>
+
+
+<p>后半部分比较粗略，有疑问留言吧</p>
 ]]></content>
   </entry>
   
